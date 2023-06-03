@@ -13,20 +13,20 @@ File: [Marketing BreakEven Analysis](https://github.com/nmaniar9/Excel_for_Busin
 
 How much inventory should you buy? Given demand assumptions and order quantity pricing what is the right amount to buy and remain profitable. This is a common scenario in CPG ordering. Buying in bulk is often cheaper per unit than buying when you need more, but is important to not get carried away and buy more than you can sell. This especially becomes prevelant when dealing with products that have expiration dates.
 
-File: [Order/Demand planning]()
+File: [Order/Demand planning](https://github.com/nmaniar9/Excel_for_Business/blob/main/Order%20Demand%20Planning.xlsx)
 
 ### Modeling Future Demand
 ![image](https://github.com/nmaniar9/Excel_for_Business/assets/44175458/fce69ed5-5c07-4765-b09b-ead9e9733e3e)
 
 How can we figure out what we will sell at different prices? If we have collected data testing different prices we can model the behavior with different models: linear, power,or exponential, we can predict future cash flows using our models and create data tables that allow us to look at what profits over different ranges. This is useful to detemine cash flows and help with order planning. I use Excels built in models to create trendlines and determine the models equations. 
 
-File: [Future Demand Modeling]()
+File: [Future Demand Modeling](https://github.com/nmaniar9/Excel_for_Business/blob/main/Modeling%20future%20demand%20.xlsx)
 
 ### Future Cash Flow and NPV
 ![image](https://github.com/nmaniar9/Excel_for_Business/assets/44175458/8ddbbaaa-6bcf-421e-851f-c5dccf856510)
 
 Is taking on a new project worth the upfront cost? Using a discounted cash flow model it is easy to discover which projects are worth the investment and which are not viable given the future cash flow projections. I use Excels NPV function to determine the present value.
 
-File: [Future Cash Flow]()
+File: [Future Cash Flow](https://github.com/nmaniar9/Excel_for_Business/blob/main/Future%20Cash%20Flow.xlsx)
 
 
