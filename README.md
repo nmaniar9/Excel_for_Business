@@ -29,4 +29,10 @@ Is taking on a new project worth the upfront cost? Using a discounted cash flow 
 
 File: [Future Cash Flow](https://github.com/nmaniar9/Excel_for_Business/blob/main/Future%20Cash%20Flow.xlsx)
 
+### Linear Programming with constraints
+![image](https://github.com/nmaniar9/Excel_for_Business/assets/44175458/bc14a99b-ed43-4878-909d-d6dd61a2bfe9)
+
+Looking at multiple scenarios including maximizing investment portfolios and profits as well as minimizing cost. I learned to use a new function "SUMPRODUCT" to multiply "vectors" in Excel. I also use the solver add on in excel to solve the linear programming models. Linear programming is useful for taking on new projects in companies as well as inventory planning. Excels' solver add on can handle many constraints and variables that would be time consuming to do by hand. 
+
+File:[Linear Programming]()
 
