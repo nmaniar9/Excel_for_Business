@@ -34,5 +34,5 @@ File: [Future Cash Flow](https://github.com/nmaniar9/Excel_for_Business/blob/mai
 
 Looking at multiple scenarios including maximizing investment portfolios and profits as well as minimizing cost. I learned to use a new function "SUMPRODUCT" to multiply "vectors" in Excel. I also use the solver add on in excel to solve the linear programming models. Linear programming is useful for taking on new projects in companies as well as inventory planning. Excels' solver add on can handle many constraints and variables that would be time consuming to do by hand. 
 
-File:[Linear Programming]()
+File:[Linear Programming](https://github.com/nmaniar9/Excel_for_Business/blob/main/Linear%20Programming.xlsx)
 
